@@ -4,3 +4,14 @@
 
 ## What I am currently working on:
 321OS - Tiny operating system
+
+## Software I use
+Operating System - Arch Linux
+
+Window manager - Sway
+
+Panel - Waybar
+
+Editor/IDE - Visual Studio Code and neovim
+
+
