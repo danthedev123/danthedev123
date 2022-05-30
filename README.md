@@ -15,3 +15,13 @@ Panel - Waybar
 Editor/IDE - Sublime and neovim
 
 
+## Languages/technologies:
+
+- C++
+- C
+- Rust
+- Linux
+- Windows
+- JavaScript
+- TypeScript
+- MongoDB/Mongoose
