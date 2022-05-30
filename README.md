@@ -6,12 +6,12 @@
 321OS - Tiny operating system
 
 ## Software I use
-Operating System - Arch Linux
+Operating System - Ubuntu
 
-Window manager - Sway
+Window manager - GNOME/Mutter
 
 Panel - Waybar
 
-Editor/IDE - Visual Studio Code and neovim
+Editor/IDE - Sublime and neovim
 
 
