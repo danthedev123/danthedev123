@@ -3,14 +3,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danthedev123)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I am currently working on:
-321OS - Tiny operating system
+Grapefruit - A kernel written in rust
 
 ## Software I use
-Operating System - Ubuntu
+Operating System - Gentoo Linux
 
-Window manager - GNOME/Mutter
-
-Panel - Waybar
+DE - KDE Plasma
 
 Editor/IDE - Sublime and neovim
 
@@ -21,6 +19,9 @@ Editor/IDE - Sublime and neovim
 - C
 - Rust
 - Linux
+- Gentoo
+- Ubuntu
+- Arch
 - Windows
 - JavaScript
 - TypeScript
