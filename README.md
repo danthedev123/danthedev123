@@ -8,7 +8,7 @@ System/14 - A simplistic OS writen in pure C.
 ## Software I use
 Operating System - Ubuntu Linux
 
-DE - KDE Plasma
+DE - GNOME
 
 Editor/IDE - VSCode + NeoVIM
 
