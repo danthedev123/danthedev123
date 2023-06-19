@@ -6,11 +6,11 @@
 System/14 - A simplistic OS writen in pure C.
 
 ## Software I use
-Operating System - Gentoo Linux
+Operating System - Ubuntu Linux
 
 DE - KDE Plasma
 
-Editor/IDE - Sublime and neovim
+Editor/IDE - VSCode + NeoVIM
 
 
 ## Languages/technologies:
