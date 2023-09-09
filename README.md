@@ -1,7 +1,8 @@
-## 👋 Welcome to my profile!
-I am Daniel (DTD-123), and I am into embeded software and operating systems.
+<h1 align=center>👋 Welcome to my profile!</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danthedev123)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  I am Daniel (DTD-123), and I am into embeded software and operating systems.<br><br><img src="https://github-readme-stats.vercel.app/api?username=danthedev123"><br><br>
+</div>
 
 ## 🔎 What I am currently working on:
 System/28 - A simplistic OS writen in pure C/C++.
