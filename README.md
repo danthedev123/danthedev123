@@ -1,6 +1,11 @@
-<h1 align=center>👋 Welcome to my profile!</h1>
+<h1 align=center>👋 Welcome to my profile!
+<div align=center >
+<img src="https://komarev.com/ghpvc/?username=danthedev123">
+</div>
+</h1>
 
 <div align=center>
+
   I am Daniel (DTD-123), and I am into embeded software and operating systems.<br><br><img src="https://github-readme-stats.vercel.app/api?username=danthedev123"><br><br>
 </div>
 
