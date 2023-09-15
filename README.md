@@ -13,7 +13,7 @@
 System/28 - A simplistic OS writen in pure C/C++.
 
 ## 👨‍💻 My software stack
-Windows 11/Ubuntu 22.04 (WSL)/g++/VSCode
+Ubuntu 22.04/g++/VSCode
 
 ## Languages/technologies:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode,vim&perline=50)](https://skillicons.dev)
