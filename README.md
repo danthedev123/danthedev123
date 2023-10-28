@@ -5,15 +5,20 @@
 </h1>
 
 <div align=center>
-
   I am Daniel (DTD-123), and I am into embeded software and operating systems.<br><br><img src="https://github-readme-stats.vercel.app/api?username=danthedev123"><br><br>
 </div>
 
 ## 🔎 What I am currently working on:
-System/28 - A simplistic OS writen in pure C/C++.
+- System/28 - A simplistic OS writen in pure C/C++.
 
 ## 👨‍💻 My software stack
-Ubuntu 23.10/g++/VSCode
+- Operating system: Ubuntu 23.10
+- Desktop environment: GNOME 45.0
+- Code editor: Visual Studio Code & GNU Emacs
+
+## 📂 My skills
+- Low-level systems engineering (C++, Assembly)
+- GNU/Linux
 
 ## Languages/technologies:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode,vim&perline=50)](https://skillicons.dev)
+[![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,linux,git,bash,emacs,vscode&perline=50)](https://skillicons.dev)
