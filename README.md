@@ -9,7 +9,7 @@
 </div>
 
 ## 🔎 What I am currently working on:
-- System/28 - A simplistic OS writen in pure C/C++.
+- [System/28](https://github.com/danthedev123/system28) - A simplistic OS writen in pure C/C++.
 
 ## 👨‍💻 My software stack
 - Operating system: Ubuntu 23.10
