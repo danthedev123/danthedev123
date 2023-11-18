@@ -12,9 +12,9 @@
 - [System/28](https://github.com/danthedev123/system28) - A simplistic OS writen in pure C/C++.
 
 ## 👨‍💻 My software stack
-- Operating system: Ubuntu 23.10
-- Desktop environment: GNOME 45.0
-- Code editor: Visual Studio Code & GNU Emacs
+- Operating system: Windows 10
+- Desktop environment: Windows Shell
+- Code editor: Visual Studio Code
 
 ## 📂 My skills
 - Low-level systems engineering (C++, Assembly)
