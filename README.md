@@ -12,8 +12,8 @@
 - [System/28](https://github.com/danthedev123/system28) - A simplistic OS writen in pure C/C++.
 
 ## 👨‍💻 My software stack
-- Operating system: Windows 10
-- Desktop environment: Windows Shell
+- Operating system: Gentoo Linux
+- Desktop environment: Cinnamon
 - Code editor: Visual Studio Code
 
 ## 📂 My skills
