@@ -11,11 +11,6 @@
 ## 🔎 What I am currently working on:
 - [System/28](https://github.com/danthedev123/system28) - A simplistic OS writen in pure C/C++.
 
-## 👨‍💻 My software stack
-- Operating system: Gentoo Linux
-- Desktop environment: Cinnamon
-- Code editor: Visual Studio Code
-
 ## 📂 My skills
 - Low-level systems engineering (C++, Assembly)
 - GNU/Linux
