@@ -16,4 +16,4 @@
   - System/28 (kernel in C++)
 
 ## Currently learning:
-  - Rust, because that's the cool new thing
+  - Rust
