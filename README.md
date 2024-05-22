@@ -1,14 +1,19 @@
-<h1 align=center>Daniel (DTD-123)
-<div align=center >
+<!---
+  - Nothing to see here...
+-->
+<h1 align=center>You've reached Daniel's page
+<div align=center>
 </div>
 </h1>
-
 <div align=center>
-  Hi! I'm Daniel, and I am into embeded software and operating systems.<br><br><img src="https://github-readme-stats.vercel.app/api?username=danthedev123"><br><br>
+  Hi! I'm Daniel, and I am into kernel and OS development, or anything low-level.
 </div>
 
-## What I am currently working on:
-- [System/28](https://github.com/danthedev123/system28) - A simplistic OS writen in pure C/C++.
-
 ## Languages/technologies:
-[![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,linux,git,bash,emacs,vscode&perline=50)](#)
+[![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,rust,linux,git,bash,emacs,vscode&perline=50)](#)
+
+## Current projects:
+  - System/28 (kernel in C++)
+
+## Currently learning:
+  - Rust, because that's the cool new thing
