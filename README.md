@@ -1,19 +1,20 @@
 <!---
   - Nothing to see here...
 -->
-<h1 align=center>You've reached Daniel's page
+<h1 align=center>Daniel H. (DTD-123)
 <div align=center>
 </div>
 </h1>
 <div align=center>
-  Hi! I'm Daniel, and I am into kernel and OS development, or anything low-level.
+  I write hobby OS kernels, for the fun of it.
 </div>
 
 ## Languages/technologies:
-[![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,rust,linux,git,bash,emacs,vscode&perline=50)](#)
+[![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,rust,windows,raspberrypi,linux,arch,git,bash,emacs,vscode&perline=50)](#)
 
 ## Current projects:
   - System/28 (kernel in C++)
 
 ## Currently learning:
   - Rust
+  - CUDA
