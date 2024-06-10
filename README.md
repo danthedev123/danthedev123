@@ -6,15 +6,8 @@
 </div>
 </h1>
 <div align=center>
-  I write hobby OS kernels, for the fun of it.
+  C & C++ low-level programmer, with an interest in kernel & driver development
 </div>
 
 ## Languages/technologies:
 [![Languages/Technologies icons](https://skillicons.dev/icons?i=c,cpp,rust,windows,raspberrypi,linux,arch,git,bash,emacs,vscode&perline=50)](#)
-
-## Current projects:
-  - System/28 (kernel in C++)
-
-## Currently learning:
-  - Rust
-  - CUDA
